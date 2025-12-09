@@ -1,0 +1,5 @@
+{
+  "name": "Chuyển PDF to Word+TrungHieu",
+  "description": "Convert PDF and Images to LaTeX math and text using Gemini AI, optimized for Word and MathType.",
+  "requestFramePermissions": []
+}
